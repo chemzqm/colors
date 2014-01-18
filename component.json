@@ -1,0 +1,13 @@
+{
+  "name": "colors",
+  "repo": "chemzqm/colors",
+  "description": "Smarter defaults for colors on the web. ",
+  "version": "0.0.1",
+  "keywords": ["colors"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "colors.css"
+  ]
+}
